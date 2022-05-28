@@ -17,12 +17,12 @@
 </div>
 <hr>
 
-<h2>Installation</h2>
+<h2>🔎 Installation</h2>
   
 - Clone this repository
 - Enter folder of clone
 - Move `levuaska.conf` to `~/.config/kitty/kitty.conf`
   
-<h2>Thanks<h2>
+<h2>💜 Thanks<h2>
 
 - [justleoo](https://github.com/justleoo)
